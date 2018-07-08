@@ -1,0 +1,6 @@
+Khan Academy:
+  - Random variables https://www.khanacademy.org/math/statistics-probability/random-variables-stats-library
+  - One Sample Confidence Intervals https://www.khanacademy.org/math/statistics-probability/confidence-intervals-one-sample
+  - Two Sample inference https://www.khanacademy.org/math/statistics-probability/significance-tests-confidence-intervals-two-samples
+  - Inference for categorical data (chi-square tests) https://www.khanacademy.org/math/statistics-probability/inference-categorical-data-chi-square-tests
+  

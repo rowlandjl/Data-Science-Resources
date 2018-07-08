@@ -1,0 +1,6 @@
+Khan Academy
+  - Probability https://www.khanacademy.org/math/statistics-probability/probability-library
+  - Displaying and comparing quantitative data https://www.khanacademy.org/math/statistics-probability/displaying-describing-data
+  - Describing relationships in quantitative data https://www.khanacademy.org/math/statistics-probability/describing-relationships-quantitative-data
+  - Modeling distributions of data https://www.khanacademy.org/math/statistics-probability/modeling-distributions-of-data
+  
