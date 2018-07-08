@@ -1,0 +1,27 @@
+Linear and Logistic Regression:
+  - https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/
+  - Week 2 of edX Analytics Edge course:
+    * The Statistcal Sommelier: An intro to linear regression
+    * Moneyball: The power of sports analytics
+    * Playing Moneyball in the NBA
+
+Model selection and evaluation:
+  - Model Evaluation: Concepts https://www.youtube.com/watch?list=PL0CuHLTNkYnlBilaC9dt6frxmG0PeLCCF&v=JxweGr03W9g
+  - Cross Validation in R https://www.youtube.com/watch?time_continue=1&v=bRTIgv_UVxY
+
+Clustering and K-means:
+  - Week 6 of edX Analytics Edge course:
+    * Recommendations worth a million: intro to clustering
+    * Predictive Diagnosis: Discovering patterns for disease recognition
+    * Seeing the big picture: Segmenting images to create data
+  - R in Action book
+
+Trees and Text Analysis:
+  - Week 4 of edX Analytics Edge course:
+    * Judge, jury and the classifier: an intro to trees
+    * Keeping an eye on healthcare costs
+    * Location, Location, Location: Regression trees for housing data
+  - Week 5 of edX Analytics Edge course:
+    * Turning Tweets into knowledge
+    * Man vs Machine: How IBM built a Jeopardy champion
+    * Predictive Coding: Bring Analytics into the courtroom 

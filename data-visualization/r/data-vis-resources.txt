@@ -1,3 +1,7 @@
 DataCamp:
   - Data Visualization with ggplot2(Part 1)
   - Data Visualization with ggplot2(Part 2)
+
+Intro to Infographics and Data Visualization https://www.youtube.com/watch?list=PL0CuHLTNkYnkFJYLmeMnchqRIMWu8rihB&v=TRUpURcCbYo
+
+A Survey of Advanced Visualization Techniques https://queue.acm.org/detail.cfm?id=1805128
