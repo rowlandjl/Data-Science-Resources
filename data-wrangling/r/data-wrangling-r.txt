@@ -1,0 +1,5 @@
+Data Wrangling with R and RStudio https://www.rstudio.com/resources/webinars/data-wrangling-with-r-and-rstudio/
+
+Data Manipulation in R using Dplyr https://www.dataschool.io/dplyr-tutorial-for-faster-data-manipulation-in-r/
+
+Getting Data into R https://vimeo.com/130548869
