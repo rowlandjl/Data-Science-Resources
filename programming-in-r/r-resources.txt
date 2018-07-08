@@ -1,0 +1,15 @@
+DataCamp:
+  - Introduction to R
+  - Intermediate R
+
+  Getting Started with R and R Studio https://www.youtube.com/watch?time_continue=1&v=lVKMsaWju8w
+
+  Version Control with Git, Github and RStudio https://vimeo.com/119403805
+
+  Getting Started with R Markdown https://vimeo.com/142172484
+
+  Swirl Tutorial https://swirlstats.com/students.html
+
+  Quick-R Tutorial https://www.statmethods.net/
+
+  Style Guide for R http://adv-r.had.co.nz/Style.html
